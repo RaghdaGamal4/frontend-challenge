@@ -1,0 +1,95 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Tamer23123123123",
+      "email": "raghdagamal77@gmail.com",
+      "status": "INACTIVE"
+    },
+    {
+      "id": 3,
+      "name": "Raghda12313211",
+      "avatar": "https://demo.themesberg.com/windster/images/users/lana-byrd.png",
+      "status": "IN-CHECK",
+      "email": "raghda@parent.eu"
+    },
+    {
+      "id": 2,
+      "name": "Ahmed",
+      "status": "INACTIVE",
+      "email": "amr1@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Samir",
+      "status": "ACTIVE",
+      "email": "Samir@gmail.com"
+    },
+    {
+      "id": 5,
+      "name": "Tom",
+      "status": "APPROVED",
+      "email": "Tom@gmail.com"
+    },
+    {
+      "id": 6,
+      "name": "Tamer",
+      "status": "ADDED",
+      "email": "Tamer@gmail.com"
+    },
+    {
+      "id": 7,
+      "name": "Raghda",
+      "status": "IN-CHECK",
+      "email": "raghdagamal77@gmail.com"
+    },
+    {
+      "id": 8,
+      "name": "Ahmed",
+      "status": "INACTIVE",
+      "email": "ahmed@gmail.com"
+    },
+    {
+      "id": 9,
+      "name": "Samir",
+      "status": "ACTIVE",
+      "email": "samir@gmail.com"
+    },
+    {
+      "id": 10,
+      "name": "Tom",
+      "status": "APPROVED",
+      "email": "Tom@gmail.com"
+    },
+    {
+      "id": 11,
+      "name": "Tamer",
+      "email": "tamer1@gmail.com",
+      "status": "IN-CHECK"
+    },
+    {
+      "id": 12,
+      "name": "test",
+      "email": "amr5@gmail.com",
+      "status": "INACTIVE"
+    },
+    {
+      "id": 13,
+      "name": "Raghda Gamal",
+      "email": "raghdagamal88@gmail.com",
+      "status": "ACTIVE"
+    },
+    {
+      "id": 14,
+      "name": "Raghda Gamal",
+      "email": "raghda@test.eu",
+      "status": "APPROVED"
+    },
+    {
+      "name": "Raghda Gamal",
+      "email": "raghdagamal99@gmail.com",
+      "status": "ADDED",
+      "id": 15
+    }
+  ]
+}

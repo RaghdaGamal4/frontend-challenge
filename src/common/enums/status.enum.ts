@@ -1,0 +1,7 @@
+export enum STATUS {
+  ADDED = "ADDED",
+  IN_CHECK = "IN-CHECK",
+  INACTIVE = "INACTIVE",
+  ACTIVE = "ACTIVE",
+  APPROVED = "APPROVED",
+}
